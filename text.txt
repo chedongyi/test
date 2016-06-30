@@ -1,3 +1,4 @@
 add sone tests
 add some local texts
 add sone remote texts
+add sone texts on master
